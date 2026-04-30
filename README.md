@@ -24,7 +24,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: NIWASH K
 RegisterNumber:  212225230205
 */
-```
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -64,6 +63,7 @@ print("MSE : ",mse)
 print("RMSE : ",rmse)
 print("MAE : ",mae)
 print("R2 : ",r2)
+```
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
 
